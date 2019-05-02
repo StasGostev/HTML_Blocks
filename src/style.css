@@ -15,11 +15,13 @@
 }
 
 main {
+  max-width: 620px;
+  margin: 0 auto;
   padding: 10px;
+  margin: 0 auto;
 }
 
 article {
-  box-sizing: border-box;
   background-color: grey;
   width: 100px;
   height: 200px;
