@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.fl {
+    display: flex;
+}
+
+.fl-wrap {
+    flex-wrap: wrap;
+}
+
+.justify-start {
+    justify-content: flex-start;
+}
+
+main {
+  padding: 10px;
+}
+
+article {
+  box-sizing: border-box;
+  background-color: grey;
+  width: 100px;
+  height: 200px;
+  margin: 10px;
+}
+
